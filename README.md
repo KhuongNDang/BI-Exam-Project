@@ -20,7 +20,7 @@ Which genres are most consistently associated with higher vote averages?
 Is there a relationship between a film's runtime and its audience rating?
 Which production companies have the strongest track record in terms of audience reception?
 ---
-<b>Hypotheses</b>
+Hypotheses
 <br>
 H1: Films released after 1950 will have higher average ratings than earlier films, reflecting improved production quality and more reliable rating data.
 <br>
