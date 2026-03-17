@@ -20,6 +20,7 @@ Which production companies have the strongest track record in terms of audience 
 ---
 Hypotheses
 H1: Films released after 1950 will have higher average ratings than earlier films, reflecting improved production quality and more reliable rating data.
+<br>
 H2: Drama and documentary genres will receive higher average ratings than action or comedy genres in the Danish context.
 H3: Films with a runtime between 90 and 120 minutes will receive higher average ratings than very short or very long films.
 H4: A small number of production companies will account for the majority of highly rated films, suggesting concentration of quality production.
