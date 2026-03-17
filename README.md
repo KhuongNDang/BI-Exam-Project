@@ -4,14 +4,17 @@ BI Problem Statement: Danish Cinema Quality Over Time
 
 
 Context
+<br>
 This project analyzes a dataset of Danish films sourced from TMDB, spanning from the late 1800s to the present. The dataset includes information on film metadata such as release date, runtime, genre, vote average, vote count, and production companies. Danish cinema has a long and rich history, and this dataset offers a unique opportunity to explore how audience reception has evolved over more than a century of filmmaking.
 ---
 Goals
+<br>
 Identify trends in audience ratings of Danish films over time
 Understand which genres, runtimes, or production companies are associated with higher-rated films
 Provide insights that could inform decisions about film production, curation, or preservation efforts
 ---
 Research Questions
+<br>
 Has the average audience rating of Danish films changed significantly over time?
 Which genres are most consistently associated with higher vote averages?
 Is there a relationship between a film's runtime and its audience rating?
