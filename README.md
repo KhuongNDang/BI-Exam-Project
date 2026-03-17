@@ -18,13 +18,17 @@ Which genres are most consistently associated with higher vote averages?
 Is there a relationship between a film's runtime and its audience rating?
 Which production companies have the strongest track record in terms of audience reception?
 ---
-Hypotheses
+<b>Hypotheses</b>
+<br>
 H1: Films released after 1950 will have higher average ratings than earlier films, reflecting improved production quality and more reliable rating data.
 <br>
 H2: Drama and documentary genres will receive higher average ratings than action or comedy genres in the Danish context.
+<br>
 H3: Films with a runtime between 90 and 120 minutes will receive higher average ratings than very short or very long films.
+<br>
 H4: A small number of production companies will account for the majority of highly rated films, suggesting concentration of quality production.
 ---
+<br>
 Limitations
 Many older films have very low vote counts (< 5), making their average ratings statistically unreliable
 Budget and revenue data is largely missing, limiting financial analysis
